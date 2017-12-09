@@ -48,7 +48,9 @@ When you are finished, submit a pull request from your fork.
 
 ---
 
-good luck :)  you got this!!! :)
+Using Geordi La Forge as your muse, you're gonna write some functions. 
+
+Good luck :)  you got this!!! :)
 
 ---
 
@@ -208,4 +210,5 @@ The commit message should read: <br>
 "Finished #8 - Hungry for More".
 <hr>
 
-Have a beer + watch some Star Trek: The Next Generation on Netflix
+
+Now go play in the snow and/or have a beer and/or watch some Star Trek: The Next Generation and/or sleep and/or have coffee with a friend and/or call your mother.  Something that isn't coding.
