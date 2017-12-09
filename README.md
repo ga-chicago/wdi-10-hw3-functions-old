@@ -1,12 +1,11 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# wdi-10-chi (fluff hounds)
+# LA FORGE: Problem solving with functions
 
 ![LA FORGE](https://trello-attachments.s3.amazonaws.com/5a1f1414061dcf1a5867f937/5a2aa5c88bb54822ac4cfb43/ae6f0143073d7f3351e7e47a4fc7bf4b/GeordiLaForge.jpg)
 
 ---
-Title: LA FORGE: Problem solving with functions<br>
-Duration: "3:00 - 4:00" <br>
+
 Type: Homework, Assigned Saturday, Dec 9, 2017<br>
 Adapted by Reuben Ayres from homework assignment created by Thom Page<br>
 Topics: Problem solving with functions<br>
