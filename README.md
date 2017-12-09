@@ -176,7 +176,7 @@ However, If you straight up copy code from a tutorial or stack overflow post, ma
 Like so: 
 ```javascript
 // This string reverse function is totally sick, bra.  
-// I took it from http://link-to-awesome-js-resource.com/post1234-reverse-string.html
+// I took it from http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/
 // It uses method chaining to send output of the String.prototype.split() library 
 // function to the .reverse() and then to the .reverse() and .join() Array library 
 // functions, respectively.  I am inspired by its elegance.
