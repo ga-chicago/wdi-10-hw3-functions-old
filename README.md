@@ -4,21 +4,22 @@
 
 ![LA FORGE](https://trello-attachments.s3.amazonaws.com/5a1f1414061dcf1a5867f937/5a2aa5c88bb54822ac4cfb43/ae6f0143073d7f3351e7e47a4fc7bf4b/GeordiLaForge.jpg)
 
+# Homework 3: Problem Solving with functions
+
 ---
 
-Type: Homework, Assigned Saturday, Dec 9, 2017<br>
+Assigned: Saturday, Dec 9, 2017<br>
 Adapted by Reuben Ayres from homework assignment created by Thom Page<br>
-Topics: Problem solving with functions<br>
-
+ 
 ---
-
-# Homework
 
 ## Due: Monday, December 11, 2017 @8:59 am. <br>
 
 **NOTE**
 
 If you are not finished by the start of class Monday, **you may request the extension by sending me a Slack message by 8:59am on Monday** and you will be granted an extension until 7:30pm on Monday night **but you must request it.**
+
+---
 
 ## Setup
 
@@ -45,10 +46,11 @@ You should understand every letter of code in your submitted responses well enou
 
 When you are finished, submit a pull request from your fork.
 
+---
 
-<br>
+good luck :)  you got this!!! :)
 
-# Problem solving with functions
+---
 
 ## 1. Verbal questions
 
