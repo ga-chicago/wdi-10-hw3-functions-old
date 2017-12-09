@@ -1,6 +1,6 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# LA FORGE: Problem solving with functions
+# wdi-10-chi (fluff hounds)
 
 ![LA FORGE](https://trello-attachments.s3.amazonaws.com/5a1f1414061dcf1a5867f937/5a2aa5c88bb54822ac4cfb43/ae6f0143073d7f3351e7e47a4fc7bf4b/GeordiLaForge.jpg)
 
@@ -25,12 +25,11 @@ If you are not finished by the start of class Monday, **you may request the exte
 Make sure you are finished with the Lab we started in class on Friday. Slack me if you have questions.
 
 Fork this repository, and then from the github page for your fork, clone that forked repository onto your machine.
-As indicated, do a commit after each step is completed. Optiona
+As indicated, do a commit after each step is completed. Of course, you may make more than one commit per problem (like, if you fish a part of a problem).
 
+After your write each function, make sure they work as expected by calling the function for a few test cases.  Include any from the problems themselves and one or two of your own. I recommend commenting out completed work as you go, but when you finish the assignment, uncomment all your code amd make sure it still works, and that the console output is meaningful. 
 
-I recommend commenting out completed work as you go, but when you finish the assignment, uncomment all your code amd make sure it still works, and that the console output is meaningful.
-
-After your write each function, make sure they work as expected by calling the function for a few test cases.  Include any from the problems themselves and one or two of your own. 
+Like so: 
 
 ```javascript
 console.log("2. Palindrome:");
@@ -49,7 +48,7 @@ When you are finished, submit a pull request from your fork.
 
 <br>
 
-# Functions
+# Problem solving with functions
 
 ## 1. Verbal questions
 
