@@ -13,20 +13,16 @@ Adapted by Reuben Ayres from homework assignment created by Thom Page<br>
  
 ---
 
-## Due: Monday, December 11, 2017 @8:59 am. <br>
-
-**NOTE**
-
-If you are not finished by the start of class Monday, **you may request the extension by sending me a Slack message by 8:59am on Monday** and you will be granted an extension until 7:30pm on Monday night **but you must request it.**
+## Due: Monday, December 11, 2017 @8:00 pm. <br>
 
 ---
 
 ## Setup
 
-Make sure you are finished with the Lab we started in class on Friday. Slack me if you have questions.
+Make sure you are finished with the Lab we started in class on Friday. Use slack if you have questions. 
 
 Fork this repository, and then from the github page for your fork, clone that forked repository onto your machine.
-As indicated, do a commit after each step is completed. Of course, you may make more than one commit per problem (like, if you fish a part of a problem).
+As indicated, do a commit after each step is completed. Of course, you may make more than one commit per problem (like, if you finish a part of a problem).
 
 After your write each function, make sure they work as expected by calling the function for a few test cases.  Include any from the problems themselves and one or two of your own. I recommend commenting out completed work as you go, but when you finish the assignment, uncomment all your code amd make sure it still works, and that the console output is meaningful. 
 
@@ -182,14 +178,14 @@ Like so:
 // This string reverse function is totally sick, bra.  
 // I took it from http://link-to-awesome-js-resource.com/post1234-reverse-string.html
 // It uses method chaining to send output of the String.prototype.split() library 
-// function to the .reverse() and then to the .reverse() .join() Array library 
+// function to the .reverse() and then to the .reverse() and .join() Array library 
 // functions, respectively.  I am inspired by its elegance.
 function reverse(s) {
   return s.split('').reverse().join('');
 }
 ```
 
-1. Read about the Array method [(Array.prototype.reduce()] on MDN. Create a new answer to the "Sum Array" problem above using the method. We will talk about array helper methods more in class next week.
+1. Read about the Array method Array.prototype.reduce() on MDN. Create a new answer to the "Sum Array" problem above using the method. We will talk about array helper methods more in class next week.
 
 2. Create a second palindrome function, `fancyPalindrome` such that not only spaces are ignored, but also any character that is not a letter of the English alphabet.  In other words, your function should still return true if you pass in `"R@d@r"` or `"Sit! (on a potato pan), Otis!!!"` or `"aromora12345"` as arguments.
 
